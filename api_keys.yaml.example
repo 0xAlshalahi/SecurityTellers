@@ -1,0 +1,19 @@
+# SecurityTellers — API Keys Configuration
+# Copy this file to api_keys.yaml and add your keys.
+# All keys are optional. Without keys, only free sources are used.
+
+# SecurityTrails — https://securitytrails.com/app/account (free tier: 50 req/month)
+securitytrails: ""
+
+# Shodan — https://account.shodan.io/ (free tier available)
+shodan: ""
+
+# VirusTotal — https://www.virustotal.com/gui/my-apikey (free tier: 4 req/min)
+virustotal: ""
+
+# ViewDNS — https://viewdns.info/api/ (free trial available)
+viewdns: ""
+
+# Censys — https://search.censys.io/account/api (free tier: 250 req/month)
+censys_id: ""
+censys_secret: ""
